@@ -27,7 +27,7 @@ Agenda
 
 ### Bootstrap
 * [Bootstrap Grid] (http://jsbin.com/udomino/1/edit?html,css,output)
-* [Bootstrap Bacon Ipsum] (http://jsbin.com/qaheru/1/edit?html,output)
+* [Start Bacon Ipsum] (http://jsbin.com/yilutu/edit?html)
 
 ### Foundation
 * [Foundation Small] (http://jsbin.com/domivo/1/edit?html,output)
