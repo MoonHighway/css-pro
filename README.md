@@ -6,16 +6,16 @@ Agenda
 -------
 
 ### Transitions
-* [simple transition](http://jsbin.com/xecufi/1/edit?css,output)
-* [menu transitions](http://jsbin.com/ofupono/1/edit?css,output)
-* [transition endings](http://jsbin.com/qoqof/4/edit?js,output)
+* [Simple transition](http://jsbin.com/xecufi/1/edit?css,output)
+* [Menu transitions](http://jsbin.com/ofupono/1/edit?css,output)
+* [Transition endings](http://jsbin.com/qoqof/4/edit?js,output)
 
 ### Animations
 * [Animated Scene](http://www.impressivewebs.com/demo-files/css3-animated-scene/)
-* [animations](http://jsbin.com/rokuz/1/edit?css,console,output)
+* [Animations](http://jsbin.com/rokuz/1/edit?css,console,output)
 
 ### Responsive Design
-* [media queries 1, 2](http://jsbin.com/axizuv/1/edit?css,output)
+* [Media Queries 1, 2](http://jsbin.com/axizuv/1/edit?css,output)
 
 ### LESS, SaSS, SCSS
 * [SCSS Variables] (http://jsbin.com/yibezo/1/edit?css,output)
