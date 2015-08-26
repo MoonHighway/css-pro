@@ -1,0 +1,26 @@
+/* importing Google Font */
+@import url(http://fonts.googleapis.com/css?family=Lato:400,900);
+
+body {
+    font-family: 'Lato', arial;
+    font-size: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+/* Clearing Margins */
+h1, h2, h3, p, th, td, span {
+    margin: 0;
+}
+
+/* Hiding Outline Headers */
+article>h2,
+section>h3,
+caption {
+    display: none;
+}
+
+
+
+/* TODO: Style Each Hike Card Mobile First */
+
