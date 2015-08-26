@@ -6,7 +6,7 @@ Agenda
 -------
 
 ### Transitions
-* simple transition](http://jsbin.com/xecufi/1/edit?css,output)
+* [simple transition](http://jsbin.com/xecufi/1/edit?css,output)
 * [menu transitions](http://jsbin.com/ofupono/1/edit?css,output)
 * [transition endings](http://jsbin.com/qoqof/4/edit?js,output)
 
