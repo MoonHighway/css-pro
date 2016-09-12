@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+
+}
+
+header, footer {
+  background-color: blue;
+  color: #EEEDDD;
+}
+
+.row>h2 {
+  display:none
+}
+
+nav h2{
+  display:none;
+}
+
+nav ul {
+    list-style-type: none;
+    background-color: #98bf21;
+}
+
+
+nav a:link, nav a:visited {
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 4px;
+   
+}
+
+nav a:hover {
+  color: black;
+}
+
+aside {
+  background-color: #ffdab9;
+  border-radius: 8px;
+}
+
+footer p {
+  padding: 2px;
+}
